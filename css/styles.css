@@ -71,3 +71,7 @@ img {
     text-decoration: none;
     text-transform: uppercase;
 }
+
+.boton:hover {
+    background-color: #db008d;
+}
